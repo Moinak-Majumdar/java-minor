@@ -1,0 +1,2 @@
+module single_inheritance {
+}

@@ -1,0 +1,2 @@
+module cons_inheritance {
+}
